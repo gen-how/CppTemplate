@@ -5,7 +5,7 @@
 .vscode
 
 # Built files.
-[Bb]uild*
+[Bb]uild
 [Bb]in
 [Oo]bj
 [Ll]ib
