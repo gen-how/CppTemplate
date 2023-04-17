@@ -3,14 +3,17 @@
   AccessModifierOffset: '-2'
   AlignTrailingComments: 'true'
   AllowAllParametersOfDeclarationOnNextLine: 'false'
-  AlwaysBreakTemplateDeclarations: 'No'
+  AlwaysBreakTemplateDeclarations: 'Yes'
   BreakBeforeBraces: Attach
-  ColumnLimit: '100'
+  ColumnLimit: '80'
   ConstructorInitializerAllOnOneLineOrOnePerLine: 'true'
   IncludeBlocks: Regroup
-  IndentPPDirectives: AfterHash
+  IndentPPDirectives: BeforeHash
   IndentWidth: '2'
-  NamespaceIndentation: All
+  NamespaceIndentation: None
   BreakBeforeBinaryOperators: All
   BreakBeforeTernaryOperators: 'true'
+  DerivePointerAlignment: 'false'
+  PointerAlignment: Left
+  ReferenceAlignment: Left
 ...
