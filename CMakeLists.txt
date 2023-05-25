@@ -12,5 +12,5 @@ endif()
 
 # option(OPTION_NAME "Description" OFF)
 
-add_subdirectory(src)
-add_subdirectory(app)
+# add_subdirectory(src)
+# add_subdirectory(app)
